@@ -208,3 +208,6 @@ __marimo__/
 
 ## NN STUFF
 *.h5
+
+# Data Folders
+data/
